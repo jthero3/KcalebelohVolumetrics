@@ -1,5 +1,7 @@
 # KcalebelohSystem-Volumetrics
-Volumetric clouds configs for the KSP Kcalbeloh mod
+Volumetric clouds configs for the KSP Kcalbeloh mod. Works with latest release 4.
+
+Originally made by ProximaCentauri-star, modified by Jthero3. 
 
 # INSTALLATION
 
